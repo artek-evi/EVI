@@ -1,0 +1,104 @@
+.line {
+  height: 3570px;
+  top: 0px;
+  border-left: 1px solid rgb(185, 185, 185);
+  left: 90px;
+  position: fixed;
+}
+
+/* .borde-verde1 {
+  border-bottom: 4px solid #0a5157;
+  position: absolute;
+  left: 450px;
+  bottom: -425px;
+  width: 90px;
+}
+
+.borde-verde2 {
+  border-bottom: 4px solid #0a5157;
+  position: absolute;
+  left: 712px;
+  bottom: -425px;
+  width: 90px;
+}
+
+.borde-verde3 {
+  border-bottom: 4px solid #0a5157;
+  position: absolute;
+  left: 973px;
+  bottom: -425px;
+  width: 90px;
+}
+
+.borde-verde4 {
+  border-bottom: 4px solid #0a5157;
+  position: absolute;
+  left: 1234px;
+  bottom: -425px;
+  width: 90px;
+} */
+
+/*
+  .line-v-about-evi {
+    height: 90px;
+    border-left: 4px solid #0a5157;
+    left: 149px;
+    position: absolute;
+    top: 1010px;
+  }
+
+
+  .line-demo {
+    height: 90px;
+    border-left: 4px solid #0a5157;
+    left: 149px;
+    position: absolute;
+    top: 1500px;
+  }
+
+  .line-artek {
+    height: 90px;
+    border-left: 4px solid #0a5157;
+    left: 149px;
+    top: 3130px;
+    position: absolute;
+  }
+
+  .texto-vertical-about-evi h4 {
+    writing-mode: vertical-rl;
+    margin-left: 154px;
+    transform: rotate(180deg);
+    padding: 5px 5px;
+    font-size: 20px;
+    font-family: 'Open Sans', sans-serif;
+    position: absolute;
+    z-index: 20;
+    color: #0a5157;
+    top: 1020px;
+  }
+
+  .texto-vertical-demo h4 {
+    writing-mode: vertical-rl;
+    margin-left: 154px;
+    transform: rotate(180deg);
+    padding: 5px 5px;
+    font-size: 20px;
+    font-family: 'Open Sans', sans-serif;
+    position: absolute;
+    z-index: 20;
+    color: #0a5157;
+    top: 1510px;
+  }
+
+  .texto-vertical-about-artek h4 {
+    writing-mode: vertical-rl;
+    margin-left: 154px;
+    transform: rotate(180deg);
+    padding: 5px 5px;
+    font-size: 20px;
+    font-family: 'Open Sans', sans-serif;
+    z-index: 20;
+    color: #0a5157;
+    top: 3140px;
+    position: absolute;
+  } */
