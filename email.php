@@ -3,7 +3,7 @@ $destinatario = 'ale@artek.com.ar';
 
 $name = $_POST['name'];
 $company = $_POST['company'];
-$phone = $_POST['phone'];
+$message = $_POST['message'];
 $email = $_POST['email'];
 
 $header = "Contact from EVI";
