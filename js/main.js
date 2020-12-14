@@ -9,7 +9,7 @@ let cerrado = true;
 function menus(){
     let Desplazamiento_Actual = window.pageYOffset;
 
-    if(Desplazamiento_Actual <= 200){
+    if(Desplazamiento_Actual <= 150){
         nav.classList.remove('nav2');
         nav.className = ('nav1');
         nav.style.transition = '1s';
@@ -56,7 +56,7 @@ window.addEventListener('scroll', function(){
     menus();
 });
 window.addEventListener('resize', function(){
-    if(screen.width>= 700){
+    if(screen.width>= 900){
         cerrado = true;
         menu.style.removeProperty('overflow');
         menu.style.removeProperty('width');
